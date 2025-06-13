@@ -1,14 +1,14 @@
-## About the future of the uYouEnhanced Project (Apr 11, 2025)
+## About the future of the uYouEnhanced Project (Updated, June 13, 2025)
 Hey everyone,
 
-Just wanted to give you an update about uYouEnhanced. I’m not fully leaving or anything, but I won’t be as hands-on as before. I’ll still drop some github commits now and then, but there’s no way I can ever get through and solve the 300+ known issues in this github repo.
+Just wanted to give you an update about uYouEnhanced. I’m not 100% leaving or anything, but I won’t be maintaining this tweak much like before. I’ll still drop some github commits now and then to try and improve uYouEnhanced, but there’s just no way I can ever get through and solve the 300+ known existing issues in this github repository.
 
-I do my best to fix stuff when issues pop up, but it sometimes usually doesn’t work out. I do even suggest workarounds, but they might not work perfectly, especially with the latest YouTube version changes.
+I do my best to fix stuff when some issues pop up, but it sometimes usually doesn’t work out. I do even suggest workarounds, but they might not work perfectly or might mot even work, especially with the latest YouTube version changes.
 
-But as of writing this, I’d recommend using uYouEnhanced with YouTube version v20.05.4 (the ipa version I use).
+But as of writing this, I’d recommend using uYouEnhanced with YouTube version v20.05.4 (the ipa version I actually am still using personally).
 Thanks for understanding!
 
-And thanks to qnblackcat, PoomSmart & other developers allowing me to expand this fork from where it is today!
+And thanks to the developers qnblackcat, PoomSmart & other  allowing me to expand this fork from where it is today!
 
 <p align="center">
   <a href="https://user-images.githubusercontent.com/78001398/271790092-006e81cc-715a-4fbc-aff6-15832e2da8c4.png">
@@ -307,15 +307,15 @@ And thanks to qnblackcat, PoomSmart & other developers allowing me to expand thi
 
   - My alternative AltStore repo (uYouEnhanced - **iOS 14+ - mainly for Trollstore users**): https://therealfoxster.github.io/altsource-viewer/view/?source=https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps-legacy.json - not sure if i can update this ipa. this IPA will be locked in YouTube Version **19.20.2**
 
-  - [Open in AltStore (v19.49.7-3.0.4)](https://tinyurl.com/muanwkrs) - It will take a while to install because AltStore needs to download the IPA first.
+  - [Open in AltStore (v20.05.4-3.0.4)](https://tinyurl.com/33wr56zm) - It will take a while to install because AltStore needs to download the IPA first.
   - NEWS - Nov 27 2024: Please be aware that some of the **uYou** features aren't working in newer versions of YouTube.
 
 <details>
-  <summary>Version information (last updated: Mar 19, 2025)</summary>
+  <summary>Version information (last updated: June 13, 2025)</summary>
 
 | **Tweaks/App** | **Developer** | **Version** | **Open source** |
 | - | - | :-: | :-:  |
-| **YouTube** | Google Inc | 20.10.4 | ✖︎ |
+| **YouTube** | Google Inc | 20.23.3 | ✖︎ |
 | [uYou](https://github.com/MiRO92/uYou-for-YouTube) | [MiRO92](https://twitter.com/miro92) | 3.0.4 | ✖︎ |
 | **OpenYoutubeAndShorts** | [CrossiDev-Studio](https://github.com/CrossiDev-Studio) | 1.0 | [✔︎](https://github.com/CrossiDev-Studio/OpenYoutubeAndShorts) |
 | **iSponsorBlock** | [Galactic-Dev](https://github.com/Galactic-Dev) | 1.2.9 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
@@ -354,9 +354,9 @@ And thanks to qnblackcat, PoomSmart & other developers allowing me to expand thi
 |-----------|-----------------------|--------------------------|--------------------------|
 | MiRO92 | uYou 2.1 / 2.3~1 | ~v16.42.3~ ~v17.33.2 - 18.01.6~ | iOS 13.0 - iOS 15.8.3 |
 | MiRO92 | uYou 3.0 | ~v18.06.6 - v18.18.2~ | iOS 14.0 - iOS 15.8.3 |
-| MiRO92 | uYou 3.0.1 | ~v18.19.1 - v18.41.5~ | iOS 14.0 - iOS 18.3.2 |
-| MiRO92 | uYou 3.0.2 / 3.0.3 | v19.06.2 - v19.15.1 | iOS 15.0 - iOS 18.3.2 |
-| MiRO92 | uYou 3.0.4 | v19.20.2 - v19.22.6 | iOS 15.0 - iOS 18.3.2 |
+| MiRO92 | uYou 3.0.1 | ~v18.19.1 - v18.41.5~ | iOS 14.0 - iOS 18.5.0 |
+| MiRO92 | uYou 3.0.2 / 3.0.3 | v19.06.2 - v19.15.1 | iOS 15.0 - iOS 18.5.0 |
+| MiRO92 | uYou 3.0.4 | v19.20.2 - v19.22.6 | iOS 15.0 - iOS 18.5.0 |
 
 # Building
 
@@ -402,7 +402,7 @@ See [arichornlover - Wiki](https://github.com/arichornlover/uYouEnhanced/wiki/) 
 <details>
     <summary>Read more</summary><br>
 
-# Switch from uYouEnhanced to YTLitePlus (optional)
+# Switch from uYouEnhanced to YTLite or YTLitePlus (optional)
 
 Hello, this is here to showcase this tweak. I have been seeing the posts about the YTLitePlus tweak on Reddit for quite some time now and decided to add it here. Before you download or check out the tweak, you should take a look at the pros and cons below to learn more about YTLitePlus.
 
