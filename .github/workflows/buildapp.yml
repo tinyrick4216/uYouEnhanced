@@ -59,6 +59,8 @@ jobs:
       contents: write
 
     steps:
+      - name: Replace git@github.com with https
+        run: git config --global url."https://github.com/".insteadOf git@github.com:
       - name: Checkout Main
         uses: actions/checkout@v5
         with:
